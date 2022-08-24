@@ -3,12 +3,37 @@
     <title>Ayush Recommends</title>
     <link href="https://ayushsarangithub.github.io/blog/feed.xml" rel="self" />
     <link href="https://ayushsarangithub.github.io/blog" />
-    <updated>2022-08-25T01:17:18+05:30</updated>
+    <updated>2022-08-25T01:25:36+05:30</updated>
     <author>
         <name>Ayush Saran</name>
     </author>
     <id>https://ayushsarangithub.github.io/blog</id>
 
+    <entry>
+        <title>”The Killing” / Forbrydelsen</title>
+        <author>
+            <name>Ayush Saran</name>
+        </author>
+        <link href="https://ayushsarangithub.github.io/blog/the-killing-forbrydelsen.html"/>
+        <id>https://ayushsarangithub.github.io/blog/the-killing-forbrydelsen.html</id>
+            <category term="Noir"/>
+            <category term="Foreign Language"/>
+            <category term="5* Rated"/>
+
+        <updated>2022-08-25T01:25:36+05:30</updated>
+            <summary>
+                <![CDATA[
+                    This is the Danish series that started the ScandiNoir trend and set&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><em>This is the Danish series that started the ScandiNoir trend and set the trend of mystery set in these cold, civilized, but often dark Scandinavian lands.</em></p>
+<figure class="post__image"><img loading="lazy"  src="https://cdn.artsfuse.org/q:i/r:0/wp:1/w:600/u:https://artsfuse.org/wp-content/uploads/2021/08/01KILLING1-jumbo.jpg" data-is-external-image="true"  alt="" width="600" height="500"></figure>
+<p>Sofie Grabol as detective Sarah Lund in <em>Forbrydelsen</em>. Photo: Tine Harden/DR</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Testing A New Blogging Platform</title>
         <author>
