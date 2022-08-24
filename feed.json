@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Ayush Recommends",
     "description": "",
-    "home_page_url": "https://ayushsarangithub.github.io/blog",
-    "feed_url": "https://ayushsarangithub.github.io/blog/feed.json",
+    "home_page_url": "https://ayushsaranGithuB.github.io/blog",
+    "feed_url": "https://ayushsaranGithuB.github.io/blog/feed.json",
     "user_comment": "",
     "author": {
         "name": "Ayush Saran"
     },
     "items": [
         {
-            "id": "https://ayushsarangithub.github.io/blog/the-killing-forbrydelsen.html",
-            "url": "https://ayushsarangithub.github.io/blog/the-killing-forbrydelsen.html",
+            "id": "https://ayushsaranGithuB.github.io/blog/the-killing-forbrydelsen.html",
+            "url": "https://ayushsaranGithuB.github.io/blog/the-killing-forbrydelsen.html",
             "title": "”The Killing” / Forbrydelsen",
             "summary": "This is the Danish series that started the ScandiNoir trend and set&hellip;",
             "content_html": "<p><em>This is the Danish series that started the ScandiNoir trend and set the trend of mystery set in these cold, civilized, but often dark Scandinavian lands.</em></p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://cdn.artsfuse.org/q:i/r:0/wp:1/w:600/u:https://artsfuse.org/wp-content/uploads/2021/08/01KILLING1-jumbo.jpg\" data-is-external-image=\"true\"  alt=\"\" width=\"600\" height=\"500\"></figure>\n<p>Sofie Grabol as detective Sarah Lund in <em>Forbrydelsen</em>. Photo: Tine Harden/DR</p>",
@@ -27,8 +27,8 @@
             "date_modified": "2022-08-25T01:25:36+05:30"
         },
         {
-            "id": "https://ayushsarangithub.github.io/blog/testing-a-new-blogging-platform.html",
-            "url": "https://ayushsarangithub.github.io/blog/testing-a-new-blogging-platform.html",
+            "id": "https://ayushsaranGithuB.github.io/blog/testing-a-new-blogging-platform.html",
+            "url": "https://ayushsaranGithuB.github.io/blog/testing-a-new-blogging-platform.html",
             "title": "Testing A New Blogging Platform",
             "summary": "Default text Goes Here",
             "content_html": "\n  <p>\n    Default text Goes Here\n  </p>",
