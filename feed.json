@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ayush Recommends",
+    "description": "",
+    "home_page_url": "https://ayushsarangithub.github.io/blog",
+    "feed_url": "https://ayushsarangithub.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ayush Saran"
+    },
+    "items": [
+        {
+            "id": "https://ayushsarangithub.github.io/blog/testing-a-new-blogging-platform.html",
+            "url": "https://ayushsarangithub.github.io/blog/testing-a-new-blogging-platform.html",
+            "title": "Testing A New Blogging Platform",
+            "summary": "Default text Goes Here",
+            "content_html": "\n  <p>\n    Default text Goes Here\n  </p>",
+            "author": {
+                "name": "Ayush Saran"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-08-25T01:00:17+05:30",
+            "date_modified": "2022-08-25T01:17:18+05:30"
+        }
+    ]
+}

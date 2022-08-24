@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Ayush Recommends</title>
+    <link href="https://ayushsarangithub.github.io/blog/feed.xml" rel="self" />
+    <link href="https://ayushsarangithub.github.io/blog" />
+    <updated>2022-08-25T01:17:18+05:30</updated>
+    <author>
+        <name>Ayush Saran</name>
+    </author>
+    <id>https://ayushsarangithub.github.io/blog</id>
+
+    <entry>
+        <title>Testing A New Blogging Platform</title>
+        <author>
+            <name>Ayush Saran</name>
+        </author>
+        <link href="https://ayushsarangithub.github.io/blog/testing-a-new-blogging-platform.html"/>
+        <id>https://ayushsarangithub.github.io/blog/testing-a-new-blogging-platform.html</id>
+
+        <updated>2022-08-25T01:17:18+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Default text Goes Here
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Default text Goes Here
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
